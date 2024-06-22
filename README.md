@@ -1,5 +1,5 @@
 # lab_algo
-Algorithms and Data Structures II LABS
+Algorithms and Data Structures II LABS (FAMAF)
 
 - Algorithm Analysis
 - Data structures
